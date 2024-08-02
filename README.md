@@ -10,13 +10,13 @@
 ### Settings di config.js
 ```Javascript
 global.owner = [
-    ['6281252848955'],
-    ['6285815700861'],
-    ['6281252848955', 'owner', true]
+    ['628891757884'],
+    ['628891757884'],
+    ['628891757884', 'owner', true]
 ]
 
 global.mods = ['0']
-global.prems = ['6285815700861', '6281252848955']
+global.prems = ['628891757884', '628891757884']
 
 global.APIs = {
   alya: 'https://api.alyachan.biz.id'
@@ -30,9 +30,9 @@ global.set = {
   link: 'https://chat.whatsapp.com/EIe1hJspvpj3pzXYckeHkh',
   thumbnail: 'https://i.ibb.co/gtr5L2k/Supermoon-2012.jpg',
   wm: 'ᴍᴏᴏɴ ʙᴏᴛ ᴏɴʟɪɴᴇ',
-  footer: 'ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ʙʏ ᴍᴏᴏɴ',
+  footer: 'ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ʙʏ ғᴀʜʀɪ',
   packname: 'Sticker By',
-  author: '@naando.io'
+  author: '@FahriOFFC'
 }
 
 global.multiplier = 7
